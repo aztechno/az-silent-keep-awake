@@ -1,0 +1,14 @@
+# Folder hasil build Rust (Sangat Besar)
+/target
+
+# File konfigurasi runtime
+config.json
+
+# File Installer
+/Output
+
+# Editor & OS
+.vscode/
+.idea/
+*.pdb
+Thumbs.db
